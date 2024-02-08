@@ -9,7 +9,7 @@ Looking to gain my first work experience so I can put my skills into practice to
 I always like to be constantly learning and improving 💪
 
 
-## Technologies I work with:
+## My tech stack:
 
 - HTML  ![HTML](https://img.shields.io/badge/-HTML-orange)
 - CSS  ![CSS](https://img.shields.io/badge/-CSS-blue)
@@ -27,6 +27,7 @@ I always like to be constantly learning and improving 💪
 
 - Next.js ![Next.js](https://img.shields.io/badge/-Next.js-black)
 - MongoDB ![MongoDB](https://img.shields.io/badge/-MongoDB-green)
+- Astro ![Astro](https://img.shields.io/badge/-Astro-purple)
 
 ## Social Media 🌐
 
