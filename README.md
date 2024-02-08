@@ -4,6 +4,10 @@ Currently living in Buenos Aires, Argentina. 🌎
 
 Studying Bachelor of Information Systems at UBA. 📚
 
+Looking to get a work experience to put on my skills, improve those and learn new ones 🔎
+
+I always like to be constantly learning and improving 💪
+
 ## Technologies I work with:
 
 - HTML  ![HTML](https://img.shields.io/badge/-HTML-orange)
