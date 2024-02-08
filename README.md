@@ -17,7 +17,7 @@ I always like to be constantly learning and improving 💪
 - TypeScript  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
 - React  ![React](https://img.shields.io/badge/-React-blueviolet)
 - Node.js  ![Node.js](https://img.shields.io/badge/-Node.js-green)
-- - Git  ![Git](https://img.shields.io/badge/-Git-orange)
+- Git  ![Git](https://img.shields.io/badge/-Git-orange)
 
 ## Current Learning 📖
 
