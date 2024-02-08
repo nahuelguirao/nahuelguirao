@@ -7,13 +7,15 @@ Studying Bachelor of Information Systems at UBA. 📚
 
 ## My tech stack:
 
-- HTML ![HTML](https://img.shields.io/badge/-HTML-orange)
-- CSS ![CSS](https://img.shields.io/badge/-CSS-blue)
-- JavaScript ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-- TypeScript ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
-- React ![React](https://img.shields.io/badge/-React-blueviolet)
-- Git ![Git](https://img.shields.io/badge/-Git-orange)
-- Node.js ![Node.js](https://img.shields.io/badge/-Node.js-green)
+<div style="display: flex; gap: 10px;">
+  <div style="background-color: orange; padding: 10px;">HTML</div>
+  <div style="background-color: blue; color: white; padding: 10px;">CSS</div>
+  <div style="background-color: yellow; padding: 10px;">JavaScript</div>
+  <div style="background-color: blue; color: white; padding: 10px;">TypeScript</div>
+  <div style="background-color: blueviolet; color: white; padding: 10px;">React</div>
+  <div style="background-color: orange; padding: 10px;">Git</div>
+  <div style="background-color: green; color: white; padding: 10px;">Node.js</div>
+</div>
 
 
 ## Current Learning 📖
