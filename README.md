@@ -4,9 +4,10 @@ Currently living in Buenos Aires, Argentina. 🌎
 
 Studying Bachelor of Information Systems at UBA. 📚
 
-Looking to get a work experience to put on my skills, improve those and learn new ones 🔎
+Looking to gain my first work experience so I can put my skills into practice to improve them and learn new ones 🔎
 
 I always like to be constantly learning and improving 💪
+
 
 ## Technologies I work with:
 
@@ -15,8 +16,8 @@ I always like to be constantly learning and improving 💪
 - JavaScript  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
 - TypeScript  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
 - React  ![React](https://img.shields.io/badge/-React-blueviolet)
-- Git  ![Git](https://img.shields.io/badge/-Git-orange)
 - Node.js  ![Node.js](https://img.shields.io/badge/-Node.js-green)
+- - Git  ![Git](https://img.shields.io/badge/-Git-orange)
 
 ## Current Learning 📖
 
