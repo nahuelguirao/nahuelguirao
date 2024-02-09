@@ -23,7 +23,7 @@ I always like to be constantly learning and improving 💪
 
 - Express.js ![Express.js](https://img.shields.io/badge/-Express.js-lightgrey)
 
-## Next to Learn 🔜
+## Next steps 🔜
 
 - Next.js ![Next.js](https://img.shields.io/badge/-Next.js-black)
 - MongoDB ![MongoDB](https://img.shields.io/badge/-MongoDB-green)
