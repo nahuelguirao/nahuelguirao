@@ -19,9 +19,10 @@ I always like to be constantly learning and improving 💪
 - Node.js  ![Node.js](https://img.shields.io/badge/-Node.js-green)
 - Git  ![Git](https://img.shields.io/badge/-Git-orange)
 
-## Current Learning 📖
+## Currently Learning 📖
 
 - Express.js ![Express.js](https://img.shields.io/badge/-Express.js-lightgrey)
+- PostgreSQL  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue)
 
 ## Next steps 🔜
 
@@ -32,4 +33,4 @@ I always like to be constantly learning and improving 💪
 ## Social Media 🌐
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/nahuel-guirao-6b1a96242/)
-[![My portfolio](https://img.shields.io/badge/Website-black?logo=react)](https://www.tu-sitio-web.com)
+[![My portfolio](https://img.shields.io/badge/Website-black?logo=react)]((https://nahuelguirao.netlify.app/)
