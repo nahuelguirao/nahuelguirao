@@ -33,4 +33,4 @@ I always like to be constantly learning and improving 💪
 ## Social Media 🌐
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/nahuel-guirao-6b1a96242/)
-[![My portfolio](https://img.shields.io/badge/Website-black?logo=react)]((https://nahuelguirao.netlify.app/)
+[![My portfolio](https://img.shields.io/badge/Website-black?logo=react)](https://nahuelguirao.netlify.app/)
