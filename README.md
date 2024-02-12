@@ -22,7 +22,7 @@ I always like to be constantly learning and improving 💪
 ## Currently Learning 📖
 
 - Express.js ![Express.js](https://img.shields.io/badge/-Express.js-lightgrey)
-- PostgreSQL  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue)
+- SQL  ![SQL](https://img.shields.io/badge/-SQL-blue)
 
 ## Next steps 🔜
 
