@@ -22,11 +22,10 @@ I always like to be constantly learning and improving 💪
 ## Currently Learning 📖
 
 - Express.js ![Express.js](https://img.shields.io/badge/-Express.js-lightgrey)
-- SQL  ![SQL](https://img.shields.io/badge/-SQL-blue)
+- Next.js ![Next.js](https://img.shields.io/badge/-Next.js-black)
 
 ## Next steps 🔜
 
-- Next.js ![Next.js](https://img.shields.io/badge/-Next.js-black)
 - MongoDB ![MongoDB](https://img.shields.io/badge/-MongoDB-green)
 - Astro ![Astro](https://img.shields.io/badge/-Astro-purple)
 
