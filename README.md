@@ -17,16 +17,17 @@ I always like to be constantly learning and improving 💪
 - TypeScript  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
 - React  ![React](https://img.shields.io/badge/-React-blueviolet)
 - Node.js  ![Node.js](https://img.shields.io/badge/-Node.js-green)
+- Express.js ![Express.js](https://img.shields.io/badge/-Express.js-lightgrey)
 - Git  ![Git](https://img.shields.io/badge/-Git-orange)
 
 ## Currently Learning 📖
 
-- Express.js ![Express.js](https://img.shields.io/badge/-Express.js-lightgrey)
 - Next.js ![Next.js](https://img.shields.io/badge/-Next.js-black)
+- MongoDB ![MongoDB](https://img.shields.io/badge/-MongoDB-green)
 
 ## Next steps 🔜
 
-- MongoDB ![MongoDB](https://img.shields.io/badge/-MongoDB-green)
+- Docker ![Docker](https://img.shields.io/badge/-Docker-TypeScript-blue)
 - Astro ![Astro](https://img.shields.io/badge/-Astro-purple)
 
 ## Social Media 🌐
