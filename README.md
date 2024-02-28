@@ -27,7 +27,7 @@ I always like to be constantly learning and improving 💪
 
 ## Next steps 🔜
 
-- Docker ![Docker](https://img.shields.io/badge/-Docker-TypeScript-blue)
+- Docker ![Docker](https://img.shields.io/badge/-Docker-blue)
 - Astro ![Astro](https://img.shields.io/badge/-Astro-purple)
 
 ## Social Media 🌐
