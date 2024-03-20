@@ -23,13 +23,13 @@ I always like to be constantly learning and improving 💪
 
 ## Currently Learning 📖
 
-- Next.js ![Next.js](https://img.shields.io/badge/-Next.js-black)
-- Playwright ![Playwright](https://img.shields.io/badge/-Playwright-yellow)
+- React Native ![React Native](https://img.shields.io/badge/-React_Native-blue)
+- Jest ![Jest](https://img.shields.io/badge/-Jest-red)
 
 ## Next steps 🔜
 
 - Docker ![Docker](https://img.shields.io/badge/-Docker-blue)
-- Astro ![Astro](https://img.shields.io/badge/-Astro-purple)
+- Next.js ![Next.js](https://img.shields.io/badge/-Next.js-black)
 
 ## Social Media 🌐
 
