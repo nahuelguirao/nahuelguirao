@@ -13,6 +13,7 @@ I always like to be constantly learning and improving 💪
 
 - HTML  ![HTML](https://img.shields.io/badge/-HTML-orange)
 - CSS  ![CSS](https://img.shields.io/badge/-CSS-blue)
+- Python ![Python](https://img.shields.io/badge/-Python-blue)
 - JavaScript  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
 - TypeScript  ![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
 - React  ![React](https://img.shields.io/badge/-React-blueviolet)
