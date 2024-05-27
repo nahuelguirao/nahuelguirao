@@ -24,13 +24,12 @@ I always like to be constantly learning and improving 💪
 
 ## Currently Learning 📖
 
-- React Native ![React Native](https://img.shields.io/badge/-React_Native-blue)
+- Next.js ![Next.js](https://img.shields.io/badge/-Next.js-black)
 - Jest ![Jest](https://img.shields.io/badge/-Jest-red)
 
 ## Next steps 🔜
 
-- Docker ![Docker](https://img.shields.io/badge/-Docker-blue)
-- Next.js ![Next.js](https://img.shields.io/badge/-Next.js-black)
+- React Native ![React Native](https://img.shields.io/badge/-React_Native-blue)
 
 ## Social Media 🌐
 
