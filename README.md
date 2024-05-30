@@ -19,6 +19,7 @@ I always like to be constantly learning and improving 💪
 - React  ![React](https://img.shields.io/badge/-React-blueviolet)
 - Node.js  ![Node.js](https://img.shields.io/badge/-Node.js-green)
 - Express.js ![Express.js](https://img.shields.io/badge/-Express.js-lightgrey)
+- PostgreSQL ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue)
 - MongoDB ![MongoDB](https://img.shields.io/badge/-MongoDB-green)
 - Git  ![Git](https://img.shields.io/badge/-Git-orange)
 
