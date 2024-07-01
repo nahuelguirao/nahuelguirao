@@ -4,7 +4,7 @@ Currently living in Buenos Aires, Argentina. 🌎
 
 Studying Bachelor of Information Systems at UBA. 📚
 
-Looking to gain my first work experience so I can put my skills into practice to improve them and learn new ones 🔎
+Working in LegalHub as a Full-Stack developer 💪
 
 I always like to be constantly learning and improving 💪
 
